@@ -6,7 +6,7 @@ Hi there 👋, I'm Brian Richu
 
 🌟 About Me
 I'm a passionate software engineering student enrolled in the ALX Font end Web Development Program.
-Driven by a deep curiosity about how digital products are built and function, I began my journey into tech with a desire to create impactful solutions to real-world challenges. Currently a student at the ALX Back end Web Development Course. I am committed to excellence, integrity, and leveraging technology to foster meaningful change.
+Driven by a deep curiosity about how digital products are built and function, I began my journey into tech with a desire to create impactful solutions to real-world challenges. Currently a student at the ALX Front end Web Development Course. I am committed to excellence, integrity, and leveraging technology to foster meaningful change.
 
 ## My Skills 🧠
 
